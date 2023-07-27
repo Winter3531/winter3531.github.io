@@ -1825,6 +1825,15 @@ input, select, textarea {
 
 		}
 
+		.project-link-div {
+			display: flex;
+			justify-content: space-around;
+		}
+
+		.project-link-tag {
+			width: 100%;
+		}
+
 /* Header */
 
 	#header {
